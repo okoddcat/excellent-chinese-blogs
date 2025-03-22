@@ -2,10 +2,10 @@
 <opml version="2.0">
     <head>
         <title>中文博客冲浪地图</title>
-        <dateModified>Sat, 7 Mar 2020 21:23:24 +0800</dateModified>
+        <dateModified>Thu, 12 Mar 2020 17:07:18 +0800</dateModified>
     </head>
     <body>
-        <outline text="可能吧" type="rss" htmlUrl="https://kenengba.com" xmlUrl="https://kenengba.com/feed"/>
+        <outline text="可能吧" type="rss" htmlUrl="https://kenengba.com" xmlUrl="http://feeds.kenengba.com/kenengbarss"/>
         <outline text="一天世界" type="rss" htmlUrl="https://blog.yitianshijie.net" xmlUrl="https://blog.yitianshijie.net/feed/"/>
         <outline text="最好金龟换酒" type="rss" htmlUrl="http://fz0512.com" xmlUrl="http://fz0512.com/feed"/>
         <outline text="酷 壳 – CoolShell" type="rss" htmlUrl="https://coolshell.cn" xmlUrl="https://coolshell.cn/feed"/>
@@ -28,6 +28,7 @@
         <outline text="渚碧" type="rss" htmlUrl="https://jubeny.com/" xmlUrl="https://jubeny.com/feed.xml"/>
         <outline text="雨落泪尽" type="rss" htmlUrl="https://couqiao.net/" xmlUrl="https://couqiao.net/feed"/>
         <outline text="土木坛子" type="rss" htmlUrl="https://tumutanzi.com" xmlUrl="https://tumutanzi.com/feed"/>
+        <outline text="DHTalk's Blog" type="rss" htmlUrl="https://zhangdinghao.cn" xmlUrl="https://zhangdinghao.cn/atom.xml"/>
         
     </body>
 </opml>
