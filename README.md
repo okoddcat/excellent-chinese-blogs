@@ -60,6 +60,7 @@ https://github.com/mtanneb/feeds-index/blob/master/feeds-index.md
 | 雨落泪尽            |  https://couqiao.net/            | 
 | 土木坛子            |  https://tumutanzi.com           | 
 | DHTalk's Blog   |  https://zhangdinghao.cn         | 
+| Richie的时光机   |  https://www.riichiie.net         | 
 
 
 
