@@ -33,21 +33,17 @@ https://raw.githubusercontent.com/mtanneb/excellent-chinese-blogs/master/all-fee
 | 可能吧             | https://kenengba.com            |
 | 一天世界            | https://blog.yitianshijie.net   |
 | 最好金龟换酒          | http://fz0512.com               |
-| 谢益辉             | https://yihui.org/cn/           |
 | 酷 壳 – COOLSHELL | https://coolshell.cn            |
 | 云风的 BLOG        | https://blog.codingnow.com      |
 | 40huo's - 知至知终  | https://www.40huo.cn            |
 | 树叶的BLOG         | https://www.shuyz.com           |
 | iTimothy        | https://xiaozhou.net            |
 | 攻城狮笔记           | https://qumac.com               |
-| Skywind Inside  | https://www.skywind.me          |
 | oldj            | https://oldj.net                |
 | 孤岛客             | https://www.huangjiwei.com/blog |
 | 白板报             | https://www.wangpei.net         |
-| 王登科-DK博客        | https://greatdk.com             |
 | 伪医生律师的博客        | https://chidd.net               |
 | 破袜子             | https://pewae.com               |
-| 林海草原            | https://lhcy.org                |
 | 木先森             | https://www.meizg.cn            |
 
 
