@@ -24,6 +24,12 @@ https://raw.githubusercontent.com/mtanneb/excellent-chinese-blogs/master/all-fee
 
 可以直接下载并导入RSS阅读器。
 
+### 在线阅读
+
+https://github.com/mtanneb/feeds-index/blob/master/feeds-index.md
+
+可以收藏这个链接到浏览器，页面内容每天自动更新。
+
 
 
 ### 站点列表
