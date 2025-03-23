@@ -2,32 +2,32 @@
 <opml version="2.0">
     <head>
         <title>中文博客冲浪地图</title>
-        <dateModified>Sun, 24 Apr 2022 21:55:15 +0800</dateModified>
+        <dateModified>Sun, 23 Mar 2025 14:10:25 +0800</dateModified>
     </head>
     <body>
         <outline text="一天世界" type="rss" htmlUrl="https://blog.yitianshijie.net" xmlUrl="https://blog.yitianshijie.net/feed/"/>
-        <outline text="最好金龟换酒" type="rss" htmlUrl="http://fz0512.com" xmlUrl="http://fz0512.com/feed"/>
-        <outline text="日志 on Yihui Xie | 谢益辉" type="rss" htmlUrl="https://yihui.org/cn/" xmlUrl="https://yihui.org/cn/index.xml"/>
-        <outline text="酷 壳 – CoolShell" type="rss" htmlUrl="https://coolshell.cn" xmlUrl="https://coolshell.cn/feed"/>
+        <outline text="最好金龟换酒" type="rss" htmlUrl="https://fz0512.net" xmlUrl="https://fz0512.net/feed"/>
         <outline text="云风的 BLOG" type="rss" htmlUrl="https://blog.codingnow.com" xmlUrl="https://blog.codingnow.com/atom.xml"/>
-        <outline text="40huo's - 知至知终" type="rss" htmlUrl="https://www.40huo.cn/" xmlUrl="https://www.40huo.cn/feed"/>
-        <outline text="树叶的BLOG" type="rss" htmlUrl="https://www.shuyz.com" xmlUrl="https://www.shuyz.com/atom.xml"/>
+        <outline text="树语志" type="rss" htmlUrl="https://www.shuyz.com/" xmlUrl="https://www.shuyz.com/rss.xml"/>
         <outline text="iTimothy" type="rss" htmlUrl="https://xiaozhou.net" xmlUrl="https://xiaozhou.net/atom.xml"/>
-        <outline text="攻城狮笔记" type="rss" htmlUrl="https://qumac.com" xmlUrl="https://qumac.com/?feed=rss2"/>
-        <outline text="oldj's blog" type="rss" htmlUrl="https://oldj.net" xmlUrl="https://oldj.net/feed/"/>
+        <outline text="攻城狮笔记" type="rss" htmlUrl="https://qumac.com" xmlUrl="https://qumac.com/feed/"/>
+        <outline text="Skywind Inside" type="rss" htmlUrl="https://skywind.me/blog" xmlUrl="https://skywind.me/blog/feed"/>
+        <outline text="孤岛客" type="rss" htmlUrl="https://www.huangjiwei.com/blog" xmlUrl="https://www.huangjiwei.com/blog/?feed=rss2"/>
         <outline text="白板报" type="rss" htmlUrl="https://wangpei.net" xmlUrl="https://wangpei.net/feed/"/>
-        <outline text="伪医生律师的博客" type="rss" htmlUrl="https://chidd.net" xmlUrl="https://chidd.net/feed"/>
+        <outline text="伪医生律师的博客" type="rss" htmlUrl="https://chidd.net" xmlUrl="https://chidd.net/feed/"/>
         <outline text="破袜子" type="rss" htmlUrl="https://pewae.com" xmlUrl="https://pewae.com/feed"/>
         <outline text="林海草原" type="rss" htmlUrl="https://lhcy.org" xmlUrl="https://lhcy.org/feed"/>
         <outline text="木先森" type="rss" htmlUrl="https://www.meizg.cn" xmlUrl="https://www.meizg.cn/feed/"/>
         <outline text="枫言枫语" type="rss" htmlUrl="https://justinyan.me" xmlUrl="https://justinyan.me/feed"/>
+        <outline text="三十三言" type="rss" htmlUrl="https://o0o0o0.cn" xmlUrl="https://o0o0o0.cn/feed"/>
         <outline text="陈仓颉" type="rss" htmlUrl="https://imzm.im" xmlUrl="https://imzm.im/feed/"/>
         <outline text="狡猫三窝" type="rss" htmlUrl="https://slykiten.com" xmlUrl="https://slykiten.com/feed/"/>
         <outline text="渚碧" type="rss" htmlUrl="https://jubeny.com/" xmlUrl="https://jubeny.com/feed.xml"/>
-        <outline text="雨落泪尽" type="rss" htmlUrl="https://couqiao.net" xmlUrl="https://couqiao.net/feed"/>
         <outline text="土木坛子" type="rss" htmlUrl="https://tumutanzi.com" xmlUrl="https://tumutanzi.com/feed"/>
-        <outline text="随望淡思" type="rss" htmlUrl="https://www.lushaojun.com" xmlUrl="https://www.lushaojun.com/feed"/>
+        <outline text="逆时针" type="rss" htmlUrl="http://mydes.top/" xmlUrl="http://mydes.top/feed.php"/>
         <outline text="非礼勿言" type="rss" htmlUrl="https://feiliwuyan.com" xmlUrl="https://feiliwuyan.com/feed/"/>
+        <outline text="Richie的时光机" type="rss" htmlUrl="https://riichiie.net" xmlUrl="https://riichiie.net/feed/atom/"/>
+        <outline text="云风的 BLOG" type="rss" htmlUrl="https://blog.codingnow.com/" xmlUrl="https://blog.codingnow.com/index.xml"/>
         
     </body>
 </opml>
